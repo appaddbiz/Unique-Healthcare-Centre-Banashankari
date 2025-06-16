@@ -11284,7 +11284,7 @@ blockquote cite:before {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   margin-bottom: 52px;
-  border: 1px solid #212D62;
+  border: 1px solid #212d62;
 }
 .service-card6:hover {
   /* background-color: var(--title-color); */
@@ -18637,6 +18637,9 @@ body {
   }
   .about-btn {
     text-align: center;
+  }
+  .book-now {
+    display: none;
   }
 }
 @media (min-width: 768px) {
