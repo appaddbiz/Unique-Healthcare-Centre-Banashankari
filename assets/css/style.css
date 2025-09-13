@@ -11690,9 +11690,9 @@ blockquote cite:before {
 }
 
 .service-tabs {
-  border-radius: 10px 10px 300px 10px;
+  border-radius: 10px 10px 10px 10px;
   background: #27477d;
-  padding: 25px 25px 23px 22px;
+  padding: 15px 15px 13px 12px;
   overflow: hidden;
   /* Large devices */
   /* Medium devices */
@@ -15915,10 +15915,10 @@ body {
 .vs-project-box .project-content {
   position: absolute;
   left: 40px;
-  right: 40px;
-  bottom: 0;
+  right: 120px;
+  bottom: 10;
   padding: 35px 10px 38px 10px;
-  background-color: var(--white-color);
+  /* background-color: var(--white-color); */
   text-align: center;
   -webkit-box-shadow: 0px 2px 60px 2.25px rgba(39, 71, 125, 0.11);
   box-shadow: 0px 2px 60px 2.25px rgba(39, 71, 125, 0.11);
@@ -15971,8 +15971,8 @@ body {
 /* Large devices */
 @media (max-width: 1199px) {
   .vs-project-box .project-content {
-    left: 20px;
-    right: 20px;
+    /* left: 20px;
+    right: 20px; */
   }
   .project-shape {
     height: 560px;
