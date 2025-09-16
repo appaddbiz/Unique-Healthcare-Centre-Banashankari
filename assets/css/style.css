@@ -11235,7 +11235,7 @@ blockquote cite:before {
   font-weight: 700;
   color: var(--white-color);
   line-height: 26px;
-  padding: 0 30px;
+  padding: 0 17px;
   height: 55px;
   line-height: 55px;
   background-color: var(--theme-color);
